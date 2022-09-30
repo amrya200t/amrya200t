@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/20686802/193343033-e5ef501c-705a-432c-a4b3-164ea7a82e50.png)]()
+[![MasterHead](https://miro.medium.com/max/1400/0*-aSH2stfVQovM0ZP.gif)]()
 <h1 align="center">Hi 👋, I'm Amr Ezzat Ahmed</h1>
 <h3 align="center">A passionate Front End Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
