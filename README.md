@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Sass**
 
-- 👨‍💻 All of my projects are available at [https://amrezzat.com/](https://amrezzat.com/)
+- 👨‍💻 All of my projects are available at [https://amrezzat.com/](Portfolio)
 
-- 📝 I regularly write articles on [https://amrezzat.com/blog](https://amrezzat.com/blog)
+- 📝 I regularly write articles on [https://amrezzat.com/blog](Blog)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and Redux**
 
 - 📫 How to reach me **amr@amrezzat.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nRdj3KG4VXCgmTNr0Ke7AfinYw7pbwwn/view?usp=sharing](https://drive.google.com/file/d/1nRdj3KG4VXCgmTNr0Ke7AfinYw7pbwwn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nRdj3KG4VXCgmTNr0Ke7AfinYw7pbwwn/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
