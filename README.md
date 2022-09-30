@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amrezzat.com/)
 
-- 📝 I regularly write articles on [Blog](https://amrezzat.com/blog)
+- 📝 I regularly write articles on [Blog](https://amrezzat.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and Redux**
 
