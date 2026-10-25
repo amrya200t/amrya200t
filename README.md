@@ -1,27 +1,49 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*-aSH2stfVQovM0ZP.gif)]()
-<h1 align="center">Hi 👋, I'm Amr Ezzat Ahmed</h1>
-<h3 align="center">A passionate Front End Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<h1>Amr Ezzat</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrya200t&label=Profile%20views&color=0e75b6&style=flat" alt="amrya200t" /> </p>
+**Frontend & full-stack engineer** · 3+ years · Egypt, working remotely
 
-- 🌱 I’m currently learning **Sass**
+I build what moves on screen, and the machinery behind it.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://amrezzat.com/)
+---
 
-- 📝 I regularly write articles on [Blog](https://amrezzat.com)
+### Now
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and Redux**
+**DS-Mate** · Software Engineer · Nov 2025 – now
+The integration layer of a multi-channel ecommerce platform: sales channels like Temu and WooCommerce, suppliers and carriers like CJdropshipping, Cainiao and 4PX, background work on AWS SQS, an MCP server that connects the platform to AI clients, and a daily-refreshed AliExpress catalog with advanced search.
+`Next.js` `Node.js` `Express` `MongoDB` `AWS`
 
-- 📫 How to reach me **amr@amrezzat.com**
+**Aimstyle** (Dubai, remote) · Front-end Engineer · Jan 2023 – now
+30+ production web apps for fintech, legal, automotive and CMS clients. Built the multi-language template behind them: bundles 72% smaller (1.8 MB → 0.5 MB) and performance scores from 70 to 90+. Its setup scripts cut project setup from 30 minutes to under 5 seconds.
+`Angular` `Next.js` `React` `TypeScript` `ASP.NET` `GSAP` `Tailwind`
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nRdj3KG4VXCgmTNr0Ke7AfinYw7pbwwn/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amroeahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amroeahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amrezzatofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrezzatofficial" height="30" width="40" /></a>
-</p>
+### Featured
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**[NextTrack](https://github.com/amrya200t/cm3070-nextrack)** · [live API](https://nexttrack.amrezzat.com/docs)
+A music recommender that needs no account and keeps no history. Send a few tracks, get the next ones, each with a reason ("because you listened to…"). My University of London final project.
+- ALS collaborative filtering trained on 30.4M listening events, 948,740 tracks, plus a diversity re-ranker
+- Beats every baseline tested: Recall@10 0.0958 vs 0.0813 for item-kNN
+- p95 latency 2 ms, ~194 MB RAM, 4 s cold start on a 2-vCPU server
+- 67 tests, CI on every push, one-command Docker deploy
+
+`Python` `FastAPI` `implicit` `Docker`
+
+**[thermostat-app](https://github.com/amrya200t/thermostat-app)**
+An offline-first thermostat controller: optimistic updates, a command queue that only sends the latest setpoint, and protection against stale responses. Trade-offs written up in [DECISIONS.md](https://github.com/amrya200t/thermostat-app/blob/main/docs/DECISIONS.md).
+`React Native` `Expo` `Redux Toolkit` `TypeScript`
+
+---
+
+### Toolbox
+
+**Frontend** TypeScript · React · Next.js · Angular · GSAP · Tailwind · WebGL
+**Mobile** React Native · Expo · Firebase
+**Backend** Node.js · Express · ASP.NET (C#) · Python · FastAPI
+**Data & cloud** MongoDB · PostgreSQL · Redis · AWS (SQS…) · Docker · CI/CD
+
+AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner
+
+---
+
+**Say hello** · [amr@amrezzat.com](mailto:amr@amrezzat.com) · [LinkedIn](https://www.linkedin.com/in/amrezzatofficial/) · Arabic & English
